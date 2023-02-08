@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Capstone_Project_Calculators/static/css/main.fc79847a.css",
+    "main.js": "/Capstone_Project_Calculators/static/js/main.c2023c09.js",
+    "index.html": "/Capstone_Project_Calculators/index.html",
+    "main.fc79847a.css.map": "/Capstone_Project_Calculators/static/css/main.fc79847a.css.map",
+    "main.c2023c09.js.map": "/Capstone_Project_Calculators/static/js/main.c2023c09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc79847a.css",
+    "static/js/main.c2023c09.js"
+  ]
+}
